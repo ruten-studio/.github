@@ -1,13 +1,25 @@
-# Ruten Studio
+<h1 align="center">Ruten Studio</h1>
 
-ものづくりとソフトウェア開発を行うスタジオです。
+<p align="center">
+  ものづくりとソフトウェア開発を行う小さなスタジオです。
+</p>
 
-## 🛠️ What we do
+---
 
-- プロダクト開発
-- 実験的なツール・ライブラリ
+### 🧭 About
 
-## 🔗 Links
+ゲーム・Web・モバイルを中心に、自分たちが「あったら良いな」と思うものを作っています。
 
-<!-- ここに Web サイトや SNS のリンクを追加できます -->
+### 🧰 Tech
+
+`TypeScript` · `Hono` · `Vite` · `Shell` · `GLSL` / Minecraft
+
+### 📌 Repositories
+
+下にピン留めしたリポジトリを掲載しています。
+メンバーは Private リポジトリも表示されます（外部の方には公開リポジトリのみ表示されます）。
+
+### 📫 Contact
+
+<!-- Web サイトや連絡先リンクをここに追加できます -->
 
